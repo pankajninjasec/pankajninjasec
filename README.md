@@ -44,6 +44,7 @@
              <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"/><br>Jupyter Notebook</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
          </tr>
          <tr align="center">
@@ -53,14 +54,6 @@
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/><br>Firebase</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/docker.png"/><br>Docker</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/><br>Blockchain</td>
-         </tr>
-         <tr align="center">
-             <td  align = "center"><img src="https://i.ibb.co/n7nNkTC/arcore.png" alt="arcore" border="0"/><br>AR Core</td>
-             <td  align = "center"><img src="https://i.ibb.co/Bc9Kh8r/Vuforia.png" alt="Vuforia" border="0"/><br>Vuforia</td>
-             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/sandbox.png"/><br>Virtualization</td>
-             <td  align = "center"><img src="https://img.icons8.com/cotton/24/000000/cloud-computing.png"/><br>Cloud Computing</td>
-             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/hadoop-distributed-file-system.png"/><br>Hadoop</td>
          </tr>
      </table>
         </details>
