@@ -41,11 +41,9 @@
              <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"/><br>OpenCV</td>
          </tr>
          <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-logo.png"/><br>Tesseract OCR</td>
              <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"/><br>Jupyter Notebook</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
-             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
          </tr>
          <tr align="center">
