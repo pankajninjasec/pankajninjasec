@@ -6,7 +6,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=pankajninjasec&show_icons=true&hide_border=true" alt="Profile Stats"/>
         
         </p>
-            <details align="center">
+            
             <summary align="center"><strong>Contact:</strong></summary>
             <table align="center">
                 <tr align="center">
