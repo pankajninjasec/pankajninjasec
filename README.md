@@ -45,6 +45,7 @@
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data</td>
+             <td  align = "center"><img src="https://i.ibb.co/z78Q0h3/selenium.png" width="20px" height="20px"/><br>Selenium</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
          </tr>
          <tr align="center">
