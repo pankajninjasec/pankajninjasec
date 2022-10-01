@@ -16,4 +16,3 @@
                     <td  align = "center"><a href="https://www.twitter.com/itspankajprasad"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
                 </tr>
             </table>
-        </details>
