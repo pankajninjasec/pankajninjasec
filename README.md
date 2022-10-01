@@ -29,3 +29,42 @@
      </table>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajninjasec&layout=compact" alt="Most Used Language"/></p>
     </details>
+    
+    
+    <details align="center">
+    <summary align="center"><strong>Tools and Technologies:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/spring-logo.png"/> <br>Spring Boot</td>
+             <td  align = "center"><img src="https://i.ibb.co/Vgd7R0z/nodejs.png" width="20px" height="20px"/><br>Nodejs</td>
+             <td  align = "center"><img src="https://i.ibb.co/vYLLnzg/python-django.png" width="20px" height="20px"/><br>Django</td>
+             <td  align = "center"><img src="https://i.ibb.co/BPvZsDt/logo-reactjs.png" width="20px" height="20px"/><br>Reactjs</td>
+             <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"/><br>OpenCV</td>
+         </tr>
+         <tr align="center">
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-logo.png"/><br>Tesseract OCR</td>
+             <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"/><br>Jupyter Notebook</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
+             <img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
+         </tr>
+         <tr align="center">
+             <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/><br>AWS Could</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/><br>GCP Cloud</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/><br>Firebase</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/docker.png"/><br>Docker</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/><br>Blockchain</td>
+         </tr>
+         <tr align="center">
+             <td  align = "center"><img src="https://i.ibb.co/n7nNkTC/arcore.png" alt="arcore" border="0"/><br>AR Core</td>
+             <td  align = "center"><img src="https://i.ibb.co/Bc9Kh8r/Vuforia.png" alt="Vuforia" border="0"/><br>Vuforia</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/sandbox.png"/><br>Virtualization</td>
+             <td  align = "center"><img src="https://img.icons8.com/cotton/24/000000/cloud-computing.png"/><br>Cloud Computing</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/hadoop-distributed-file-system.png"/><br>Hadoop</td>
+         </tr>
+     </table>
+        </details>
