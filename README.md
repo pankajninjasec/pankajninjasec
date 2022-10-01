@@ -36,7 +36,7 @@
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/spring-logo.png"/> <br>Spring Boot</td>
              <td  align = "center"><img src="https://i.ibb.co/Vgd7R0z/nodejs.png" width="20px" height="20px"/><br>Node js</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/ibm.png"/><br>Django</td>
+             <td  align = "center"><img src="https://i.ibb.co/vYLLnzg/python-django.png" width="20px" height="20px"/><br>Django</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/physics.png"/><br>Reactjs</td>
              <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"/><br>OpenCV</td>
          </tr>
