@@ -37,9 +37,9 @@
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/spring-logo.png"/> <br>Spring Boot</td>
-             <td  align = "center"><img src="https://i.ibb.co/Vgd7R0z/nodejs.png" width="20px" height="20px"/><br>Nodejs</td>
-             <td  align = "center"><img src="https://i.ibb.co/vYLLnzg/python-django.png" width="20px" height="20px"/><br>Django</td>
-             <td  align = "center"><img src="https://i.ibb.co/BPvZsDt/logo-reactjs.png" width="20px" height="20px"/><br>Reactjs</td>
+             <td  align = "center"><img src="https://i.ibb.co/gTdhjV3/matlab.png"/><br>Matlab</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/ibm.png"/><br>Qiskit</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/physics.png"/><br>Physics Simulation</td>
              <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"/><br>OpenCV</td>
          </tr>
          <tr align="center">
@@ -47,7 +47,7 @@
              <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"/><br>Jupyter Notebook</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
-             <img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
          </tr>
          <tr align="center">
