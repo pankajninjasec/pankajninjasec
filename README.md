@@ -15,7 +15,6 @@
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/><br>C++</td>
              <td  align = "center"><img src="https://i.ibb.co/P9K1CDZ/c-sharp.png"/><br>C#</td>
-             <td  align = "center"><img src="https://i.ibb.co/hBz8LSr/q-sharp.png"/><br>Q#</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/console.png"/><br>Shell</td>
          </tr>
          <tr align="center">
