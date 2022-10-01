@@ -59,14 +59,14 @@
      </table>
         </details>
         
-    <details align="center">
-    <summary align="center"><strong>Contact:</strong></summary>
-     <table align="center">
-         <tr align="center">
-             <td  align = "center"><a href="mailto:pankajtech602@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
-             <td  align = "center"><a href="https://www.linkedin.com/in/itspankajprasad"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a></td>
-             <td  align = "center"><a href="https://www.instagram.com/pankajprasad111"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
-             <td  align = "center"><a href="https://www.twitter.com/itspankajprasad"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
-     </tr>
-    </table>
-    </details>
+<details align="center">
+<summary align="center"><strong>Contact:</strong></summary>
+<table align="center">
+<tr align="center">
+ <td  align = "center"><a href="mailto:pankajtech602@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
+ <td  align = "center"><a href="https://www.linkedin.com/in/itspankajprasad"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a></td>
+ <td  align = "center"><a href="https://www.instagram.com/pankajprasad111"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
+ <td  align = "center"><a href="https://www.twitter.com/itspankajprasad"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
+</tr>
+</table>
+</details>
