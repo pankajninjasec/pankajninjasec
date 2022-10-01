@@ -14,7 +14,6 @@
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/><br>C++</td>
-             <td  align = "center"><img src="https://i.ibb.co/gTdhjV3/matlab.png"/><br>Matlab</td>
              <td  align = "center"><img src="https://i.ibb.co/P9K1CDZ/c-sharp.png"/><br>C#</td>
              <td  align = "center"><img src="https://i.ibb.co/hBz8LSr/q-sharp.png"/><br>Q#</td>
          </tr>
